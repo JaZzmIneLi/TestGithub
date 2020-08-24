@@ -4,3 +4,4 @@ branch-2 first commit
 master master
 master second commit
 master third commit
+master fourth commit
