@@ -5,3 +5,4 @@ master master
 master second commit
 master third commit
 master fourth commit
+branch-3 first commit
